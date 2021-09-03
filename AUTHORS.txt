@@ -1,0 +1,32 @@
+Development Time: 7 weeks.
+University of Sheffield Project from:
+
+Nikolaos Lintas - https://www.linkedin.com/in/nikos-li-computer-science-971130209/ - https://github.com/nlintas
+    - Game Programmer
+    - Game Testing
+    - Research
+    - Game Balancing
+    - Project Manager
+    - Quality Assurance
+    - Game Designer
+    - Physics Engine Programming
+
+Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/
+    - Game Programmer
+    - Game Testing
+    - Research
+    - Game Balancing
+    - Quality Assurance
+    - Game Designer
+    - Game Artist
+    - Physics Engine Programming
+
+Katerina Matraku
+    - Documentation
+    - Diagrams
+    - Game Testing
+
+Kostandin Dervishaj
+    - Documentation
+    - Diagrams
+    - Game Testing
