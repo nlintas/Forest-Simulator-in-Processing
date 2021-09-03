@@ -11,7 +11,7 @@ Nikolaos Lintas - https://www.linkedin.com/in/nikos-li-computer-science-97113020
     - Game Designer
     - Physics Engine Programming
 
-Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/
+Phillip Kalatzis - https://www.linkedin.com/in/phillipos-andrianos-k-968454119/ - https://github.com/SuperBugX
     - Game Programmer
     - Game Testing
     - Research
